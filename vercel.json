@@ -35,7 +35,16 @@
       ]
     },
     {
-      "source": "/og-image.jpg",
+      "source": "/content.webp",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800"
+        }
+      ]
+    },
+    {
+      "source": "/logo-account-transparent.webp",
       "headers": [
         {
           "key": "Cache-Control",
