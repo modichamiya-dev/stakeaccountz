@@ -17245,7 +17245,7 @@ const FS = {
               g.jsxs("div", {
                 className: "text-center mb-16",
                 children: [
-                  g.jsx("h1", {
+                  g.jsx("h2", {
                     className:
                       "text-4xl md:text-5xl font-bold mb-4 text-white tracking-tight",
                     children: "Frequently Asked Questions",
@@ -17361,7 +17361,7 @@ const FS = {
               g.jsxs("div", {
                 className: "text-center mb-12",
                 children: [
-                  g.jsx("h1", {
+                  g.jsx("h2", {
                     className:
                       "text-4xl md:text-5xl font-bold mb-4 text-white tracking-tight",
                     children: "Ready to Get Started?",
